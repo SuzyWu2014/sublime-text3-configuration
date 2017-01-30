@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"Anaconda",
+		"Auto Hide Sidebar",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CTags",
+		"DashDoc",
+		"GitGutter",
+		"LaTeXTools",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"MarkdownLight",
+		"Non Text Files",
+		"Package Control",
+		"Pretty YAML",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeHaskell",
+		"SublimeLinter",
+		"SublimeLinter-contrib-ruby-lint",
+		"SublimeLinter-ghc",
+		"SublimeLinter-pep8",
+		"SublimeLinter-shellcheck",
+		"termX",
+		"Theme - Afterglow",
+		"TrailingSpaces",
+		"Travis YML Lint"
+	]
+}

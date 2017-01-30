@@ -1,0 +1,29 @@
+{
+    "disable_anaconda_completion": true,
+    "suppress_word_completions": true,
+    "suppress_explicit_completions": true,
+    "enable_signatures_tooltip": false,
+    "enable_docstrings_tooltip": false,
+	"python_interpreter": "/usr/local/bin/python3",
+	"anaconda_linting_behaviour": "save-only",
+	"anaconda_linter_mark_style": "none",
+	"anaconda_linter_show_errors_on_save": false,
+    "pep8_ignore":
+    [
+        "E309",
+        "E122",
+        "E121",
+        "E123",
+        "E126",
+        "E701",
+        "E128"
+    ],
+	"pep257_ignore":
+    [
+        "D203",
+        "D209"
+    ],
+    "pyflakes_ignore":
+    [
+    ]
+}
